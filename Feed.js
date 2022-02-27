@@ -31,7 +31,7 @@ export default class Feed extends Component{
                 <View style={styles.appTitle}> 
                     <View style={styles.appIcon}> 
                     <Image
-                        source={require("../assets/logo.png")}
+                        source={require("./logo.png")}
                         style={styles.iconImage}
                     ></Image> 
                     </View> 
